@@ -1,6 +1,6 @@
-# MG App (mg-app)
+# mg-app (mg-app)
 
-My First App
+A Quasar Project
 
 ## Install the dependencies
 ```bash
